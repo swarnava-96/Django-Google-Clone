@@ -23,6 +23,13 @@ python manage.py runserver
 
 
 ### Heroku Deployment:
+
+Login or signup in order to create virtual app. You can either connect your github profile or download Heroku CLI to manually deploy this project.
+
+[![](https://i.imgur.com/dKmlpqX.png)](https://heroku.com)
+
+Our next step would be to follow the instruction given on [Heroku Documentation](https://devcenter.heroku.com/articles/getting-started-with-python) to deploy a web app.
+
 ![image](https://user-images.githubusercontent.com/75041273/150213781-f09cac3f-4947-4e61-b7f6-4c462441e0d2.png)
 ![image](https://user-images.githubusercontent.com/75041273/150213856-cbddbf12-be9b-4f2e-be16-46627c529779.png)
 ![image](https://user-images.githubusercontent.com/75041273/150213941-ed7185f0-293d-4888-b9dd-acb17efa69f4.png)
